@@ -70,6 +70,8 @@ Financial and departmental reporting
 
 Automated data insights in business environments
 
+#OUTPT:
+
 ![Image](https://github.com/user-attachments/assets/e88268a5-73a1-4f73-991c-efe75cf0ab9d)
 
 ![Image](https://github.com/user-attachments/assets/027fb23e-9948-4b46-bae7-d50e962210b2)
